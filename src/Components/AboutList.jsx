@@ -5,7 +5,7 @@ function AboutList () {
         <>
         <h1 className="text-center font-mono text-7xl mt-10 text-orange-500">About Us</h1>
 
-     <div className="flex justify-around mt-40">
+     <div className="flex justify-around mt-20">
 
       <img className="w-[380px] h-[400px] rounded-[25px] shadow-lg " src="https://i.pinimg.com/1200x/62/00/13/62001342f1dbe654726c7f8741a839b4.jpg" alt="" />
 
